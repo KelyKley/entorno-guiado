@@ -1,0 +1,23 @@
+{
+  "name": "entorno-guiado",
+  "version": "1.0.0",
+  "description": "Ejercicio Guiado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KelyKley/entorno-guiado.git"
+  },
+  "author": "Kely",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KelyKley/entorno-guiado/issues"
+  },
+  "homepage": "https://github.com/KelyKley/entorno-guiado#readme",
+  "dependencies": {
+    "express": "^4.15.5",
+    "materialize-css": "^0.100.2"
+  }
+}
